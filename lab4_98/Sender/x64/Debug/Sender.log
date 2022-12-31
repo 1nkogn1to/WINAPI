@@ -1,0 +1,4 @@
+﻿  Sender.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\charconv(13): warning STL4038: The contents of <charconv> are available only with C++17 or later.
+Sender.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl sendMessage(struct _iobuf *,char const *)" (?sendMessage@@YAXPEAU_iobuf@@PEBD@Z) в функции main.
+C:\Users\Lenovo\source\repos\lab4_98\x64\Debug\Sender.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
